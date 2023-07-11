@@ -2424,4 +2424,3 @@ Use the "exit" command to exit the terminal.
 
 - Enter `exit` into the terminal
 - Have a nice day
-
